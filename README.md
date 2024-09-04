@@ -1,9 +1,5 @@
 # Personal Finance Manager
 
-Team name: Kolegos. 
-
-Members: Ridas Kožukauskas, Gustas Griežė.
-
 The Personal Finance Manager is an interactive application designed for managing and monitoring one's financial situation. This application allows users to manage their income and expenses, create and track budgets, and monitor financial goals.
 
 ## Project Architecture
@@ -68,10 +64,3 @@ The Personal Finance Manager is an interactive application designed for managing
 
 ### Documentation
 [Open the PDF file](./PersonalFinanceManager.pdf)
-
-
-## Workload report
-| Name Surname  | Grade assesment amount  |
-|---|---|
-| Ridas Kožukauskas  |  50%  |
-| Gustas Griežė |  50% |
